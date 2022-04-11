@@ -1,5 +1,5 @@
-#Verilen string= "hi my name is Buket and i am learning python"
-#Çıktı olarak almak istediğim= "Hi mY NaMe iS BuKeT AnD I Am lEaRnInG PyThOn"
+#Verilen string= "hi my name is Buket and i am learning python"#
+#Çıktı olarak almak istediğim= "Hi mY NaMe iS BuKeT AnD I Am lEaRnInG PyThOn#
 
 #Bu çıktının alınması için girilen string'in çift indexleri büyütülmeli, tek indexleri ise küçük kalmalı.
 
